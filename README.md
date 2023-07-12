@@ -122,3 +122,5 @@ protection but that is not possible.
 This software comes with the source code of two 3rd party widgets from the libQXT project. The source files you
 will find in the widget/ subdirectory. These widgets, you may also use under the terms and conditions of the 
 CPL license. For more details, read the LICENSE file in the widgets/ subdirectory!
+
+End.
